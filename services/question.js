@@ -32,7 +32,7 @@ const submitAnswer = async (data , user) => {
     await examReport(user.name,correctAnswer.length)
     return result
 }
-
+//new
 const isUserSubmittedAnswer = async (id) => {
     const result = await questionDao.isUserSubmittedAnswer(id)
     return result
