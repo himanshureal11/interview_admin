@@ -1,5 +1,5 @@
 #! /bin/bash
 
-cd /home/ubuntu/predictionAdminNode
+cd /home/ubuntu/interview_admin
 
 # sudo npm install
